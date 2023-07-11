@@ -1,0 +1,6 @@
+datas/Location_1_data/26_laneKeepData.csv filter=lfs diff=lfs merge=lfs -text
+datas/Location_1_data/11_laneKeepData.csv filter=lfs diff=lfs merge=lfs -text
+datas/Location_1_data/12_laneKeepData.csv filter=lfs diff=lfs merge=lfs -text
+datas/Location_1_data/13_laneKeepData.csv filter=lfs diff=lfs merge=lfs -text
+datas/Location_1_data/14_laneKeepData.csv filter=lfs diff=lfs merge=lfs -text
+datas/Location_1_data/25_laneKeepData.csv filter=lfs diff=lfs merge=lfs -text
